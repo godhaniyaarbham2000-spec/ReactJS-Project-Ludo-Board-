@@ -1,0 +1,51 @@
+/* LudoBoard.css */
+.board-container {
+    background-color: #1e1e1e; 
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+    color: cyan; 
+    border-bottom: 5px solid red; 
+    padding-bottom: 5px;
+}
+
+h2 {
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+.moves-tracker {
+    margin-top: 30px;
+    background-color: #333; 
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px; 
+}
+
+.move-group {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-bottom: 1px solid #444;
+}
+
+.move-group p {
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+
+.move-group button {
+    border: none;
+    padding: 8px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 100%;
+}
