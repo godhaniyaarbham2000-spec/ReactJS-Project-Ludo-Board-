@@ -42,7 +42,7 @@ This project demonstrates object state management, event handling, and UI design
 
 ## 📂 Project Structure
 ```
-LudoBoard/
+ReactJS-Project-Ludo-Board/
 │
 ├── src/
 │   ├── LudoBoard.jsx      # Main logic (state + UI)
@@ -64,14 +64,14 @@ LudoBoard/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/your-username/ludo-board-react.git
+git clone https://github.com/godhaniyaarbham2000-spec/ReactJS-Project-Ludo-Board.git
 ```
 
 
 
 ### 2. Move to project folder
 ```
-cd ludo-board-react
+cd ReactJS-Project-Ludo-Board
 ```
 
 
