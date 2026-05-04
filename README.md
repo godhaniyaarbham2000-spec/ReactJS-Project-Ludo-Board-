@@ -1,7 +1,7 @@
 # 🎲 React Ludo Board Project
 
 A simple **React-based Ludo Board + Move Counter Application** built using React hooks and CSS.  
-This project demonstrates object state management, event handling, and UI design using React.
+This project demonstrates object state management, event handling, and UI design using React. 
 
 ---
 
